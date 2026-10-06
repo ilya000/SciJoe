@@ -8,6 +8,8 @@ This repository will hold the source code of SciJoe, an open-access journal for 
 
 There is no code here yet. We are building the journal now and will publish each part in this repository as soon as it is ready. Thank you for your interest and your patience.
 
+_Last updated: 6 October 2026._
+
 ## What will appear here
 
 - The journal's website and publishing engine
